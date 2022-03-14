@@ -1,0 +1,92 @@
+{
+"bot": {
+    "token": "ODI5NjY3NjUxMzQ0NjYyNTU4.YG7eNg.9g354sew8z_Mb4D9pHAJWs-v9Zs",
+    "owner": "794825959508803594",
+    "prefix": ".",
+    "BotStatus": "Develop By ScorPiqn",
+    "BotFooter": "Develop By ScorPiqn",
+    "cooldown": 8,
+    "iltifatsize": 100
+},
+"penals": {
+    "ban": {
+        "staff": "952524623805820946",
+        "log": "BAN LOG ID",
+        "limit": 3
+    },
+    "jail": {
+        "staff": "952524623805820945",
+        "roles": "952524623549988943",
+        "log": "JAİL LOG ID",
+        "limit": 5
+    },
+    "mute": {
+        "staff": "952524623805820944",
+        "roles": "952524623549988941",
+        "log": "MUTE LOG ID",
+        "limit": 5
+    },
+    "warn": {
+        "staff": "952524623805820943",
+        "log": "WARN LOG ID"
+    },
+    "points": {
+        "mutepoints": "10",
+        "banpoints": "30",
+        "jailpoints": "20",
+        "warnpoints": "5"
+    }
+},
+"logs": {
+    "messagelog": "MESAJ LOG KANALI ID",
+    "voicelog": "SES LOG KANALI ID",
+    "taglog": "TAG LOG KANALI ID"
+},
+"roles": {
+    "boosterrole": "BOOSTER ROLÜ ID",
+    "viprole": "952524623784845330",
+    "designerrole": "TASARIMCI ROLÜ ID",
+    "musiciansrole": "MÜZİSYEN ROLÜ ID",
+    "team": "952524623805820938",
+    "sponsored": "952524623784845331"
+},
+"channels": {
+    "chat": "952524624497881175",
+    "voicechannel": "952524623889702961",
+    "welcomechannel": "952524623889702960",
+    "rules": "952524624283959320"
+},
+"parents": {
+    "publicparents": "PUBLİC KATEGORİSİ ID"
+},
+"registration": {
+    "unregistered": "952524623784845327D",
+    "man": "952524623784845328",
+    "woman": "952524623784845329",
+    "staff": "952524623805820942",
+    "GuilDTag": "296",
+    "TagSymbol": "",
+    "autonickname": "İsim | Yaş",
+    "symbol": "|",
+    "suspecios": "952524623549988943",
+    "susoeciosnickname": "$ Şüpheli Hesap",
+    "oneman": "952524623784845328",
+    "onewoman": "952524623784845329",
+    "minage": 13, 
+    "purchase": false
+},
+"Guild": {
+    "GuildID": "952524623549988935",
+    "GuilDName": "296",
+    "GuildOwnerRole": ["952524623864561792"]
+},
+"emojis": {
+    "tada": "952660828614717520",
+    "yes": "952660932444696616",
+    "no": "952661083489959986"
+},
+"buttons": {
+    "giveaway": "ÇEKİLİŞ KATILIMCISI ROLÜ ID",
+    "activity": "ETKİNLİK KATILIMCISI ROLÜ ID"
+}
+}
